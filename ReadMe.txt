@@ -20,3 +20,8 @@ A zipped datapack will be generated.
     This cycle must happen for the pack to be applied
     You may need to change the version number in `pack.mcmeta` if you're not running 1.21.4
       The datapack should still work, regardless of minecraft's warning
+
+
+There is an older version of this code https://github.com/AlexJ314/Whitelist-Minecraft-Biomes
+  It walks through creating a datapack
+  It also explains how to change other world generation settings and has a demo datapack
